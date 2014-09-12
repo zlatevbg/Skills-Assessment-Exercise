@@ -11,15 +11,14 @@ Please complete the following exercise. Please turn in all files including _SQL 
 
 ## PHP
 
-Organize the following list of items into an array variable.
-* Fruit: Apple
-* Color: Yellow
-* Number: 7
-
-1. Modify the 3rd element from the above array by multiplying the value 7 to equal 21 using an equation.
-2. Convert the array variable created above into JSON and save into a new variable.
-3. Decode the above JSON variable back to a normal array and echo to browser using a foreach loop in an unordered list.
-4. Place a condition inside the foreach loop so that the value in the 2nd element is displayed in lowercase.
+1. Organize the following list of items into an array variable:
+..* Fruit: Apple
+..* Color: Yellow
+..* Number: 7
+2. Modify the 3rd element from the above array by multiplying the value 7 to equal 21 using an equation.
+3. Convert the array variable created above into JSON and save into a new variable.
+4. Decode the above JSON variable back to a normal array and echo to browser using a foreach loop in an unordered list.
+5. Place a condition inside the foreach loop so that the value in the 2nd element is displayed in lowercase.
 
 ## CSS
 
@@ -50,8 +49,8 @@ Create a database with the following:
 2. Add a link below the unordered list that would save the list items into the database as separate rows in the order in which they are displayed - using jQuery Ajax.
 
 ...Example:
-...|ID|Label |Value |
-...|--|----- |----- |
-...|1 |Fruit |Orange|
-...|2 |Color |Yellow|
-...|3 |Number|7     |
+|ID|Label |Value |
+|--|----- |----- |
+|1 |Fruit |Orange|
+|2 |Color |Yellow|
+|3 |Number|7     |
