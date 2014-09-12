@@ -50,8 +50,8 @@ Create a database with the following:
 
 	Example:
 
-| ID  | Label  | Value  |
-|:---:|:------:|:------:|
-| 1   | Fruit  | Orange |
-| 2   | Color  | Yellow |
-| 3   | Number | 7      |
+	| ID  | Label  | Value  |
+	|:---:|:------:|:------:|
+	| 1   | Fruit  | Orange |
+	| 2   | Color  | Yellow |
+	| 3   | Number | 7      |
