@@ -100,7 +100,7 @@ header("Content-type: text/html; charset=utf-8");
  <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Skills Assessment Exercise: PHP, CSS, JavaScript, SQL</title>
+  <title>Skills Assessment Exercise: PHP, CSS, JavaScript, SQL. Using jQuery.</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style type="text/css">
 	p {
