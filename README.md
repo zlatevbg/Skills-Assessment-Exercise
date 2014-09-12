@@ -49,8 +49,9 @@ Create a database with the following:
 2. Add a link below the unordered list that would save the list items into the database as separate rows in the order in which they are displayed - using jQuery Ajax.
 
 	Example:
-| ID | Label | Value  |
-| -- | ----- | -----  |
-| 1 | Fruit  | Orange |
-| 2 | Color  | Yellow |
-| 3 | Number | 7      |
+
+| ID  | Label  | Value  |
+|:---:|:------:|:------:|
+| 1   | Fruit  | Orange |
+| 2   | Color  | Yellow |
+| 3   | Number | 7      |
